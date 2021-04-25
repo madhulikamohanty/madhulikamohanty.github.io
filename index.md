@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Madhulika Mohanty
 
-You can use the [editor on GitHub](https://github.com/madhulikamohanty/madhulikamohanty.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a postdoctoral researcher in the [CEDAR](https://team.inria.fr/cedar/) Team at Inria Saclay. I obtained my Ph.D. in July 2020 from IIT, Delhi. My thesis is titled "_Techniques for Effective Search and Retrieval over Knowledge Graphs_" and is available [here](https://bit.ly/madhulikaThesisPdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are in Database systems and Information Retrieval.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Insta-Search: Towards Effective Exploration of Knowledge Graphs**;
+  Madhulika Mohanty, Maya Ramanath;
+  CIKM 2019
 
-```markdown
-Syntax highlighted code block
+- **Spec-QP: Speculative Query Planning for Joins over Knowledge Graphs**;
+  Madhulika Mohanty, Maya Ramanath, Mohamed Yahya, and Gerhard Weikum;
+  EDBT 2019
 
-# Header 1
-## Header 2
-### Header 3
+- **KlusTree: Clustering Answer Trees from Keyword Search on Graphs**;
+  Madhulika Mohanty, Maya Ramanath;
+  CoDS-COMAD '18 Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, 2018
 
-- Bulleted
-- List
+- **Framework for design with LEON3 system and testing with SHA-1 algorithm**;
+  Madhulika Mohanty, Deepanjana Deb, Aravind Konidala, Ashish Mishra, and Solomon Raju Kota;
+  International Conference on Communication and Industrial Application (ICCIA), 2011
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madhulikamohanty/madhulikamohanty.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+first-name[dot]last-name[at]inria[dot]fr
